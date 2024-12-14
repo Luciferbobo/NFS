@@ -1,4 +1,4 @@
-# NFS
+# Unity3D Racing Game
 Racing game based on Unity3D.
 
 PS: Cloning this repo requires Git LFS.
